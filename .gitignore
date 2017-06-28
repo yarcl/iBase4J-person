@@ -7,3 +7,7 @@ iBase4J-SYS-Facade/iBase4J-SYS-Facade.iml
 iBase4J-SYS-Service/iBase4J-SYS-Service.iml
 iBase4J-SYS-Web/iBase4J-SYS-Web.iml
 iBase4J.iml
+iBase4J-Common/target/
+iBase4J-SYS-Facade/target/
+iBase4J-SYS-Service/target/
+iBase4J-SYS-Web/target/
